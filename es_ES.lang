@@ -478,9 +478,9 @@ item.hand_mirror.name=Espejo de Mano Mágico
 # Armor
 item.goggles.name=Gafas de la Revelación
 item.fortress_helm.name=Yelmo Blindado de Thaumium
-item.fortress_helm.mask.0=Mueca del Diablo
+item.fortress_helm.mask.0=Sonrisa Diabólica
 item.fortress_helm.mask.1=Fantasma Colérico
-item.fortress_helm.mask.2=Diablo Festivo
+item.fortress_helm.mask.2=Diablo Bebedor
 item.fortress_chest.name=Coraza Blindada de Thaumium
 item.fortress_legs.name=Grebas Blindadas de Thaumium
 item.thaumium_helm.name=Casco de Thaumium
@@ -638,13 +638,13 @@ item.seal.butcher.name=Sello de Control: Carnicero
 item.seal.guard.name=Sello de Control: Centinela
 item.seal.guard_advanced.name=Sello de Control Avanzado: Centinela
 item.seal.lumber.name=Sello de Control: Leñador
-item.seal.breaker.name=Sello de Control: Taladrador
+item.seal.breaker.name=Sello de Control: Destructor
 item.seal.use.name=Sello de Control: Usar
 item.seal.provider.name=Sello de Control: Abastecer
 #
 # Text
 item.runic.charge=Escudo Rúnico
-item.warping=Warping
+item.warping=Demencia
 item.capacity.text=Capacidad
 item.chargebonus.text=Cargar
 #
@@ -677,7 +677,7 @@ golem.trait.climber=Alpinista
 golem.trait.text.climber=Los acantilados escarpados no disuaden a este golem. Puede escarlar facilmente para llegar a su destino.
 golem.trait.scout=Explorador
 golem.trait.text.scout=Este golem tiene un alcance visual mayor y puede operar en un área mucho mayor también (32 bloques de rango desde la ubicación original y no 16 como siempre).
-golem.trait.fireproof=Ininflamable
+golem.trait.fireproof=Anti-llamas
 golem.trait.text.fireproof=Este golem es inmune al fuego.
 golem.trait.brutal=Brutal
 golem.trait.text.brutal=Este golem inflige un daño mayor cuerpo a cuerpo al combatir.
@@ -1442,7 +1442,7 @@ tc.research_name.HELMGOGGLES=Yelmo de la Revelación
 tc.research_text.HELMGOGGLES=Yelmo Blindado de Thaumium Mejorado
 tc.research_page.HELMGOGGLES.1=Por lo general, un taumaturgo tiene que elegir, entre la protección o la utilidad cuando sale de casa. ¡Ya no!<BR>Esta modificación al Yelmo de Fortaleza de Thaumium te dará toda la funcionalidad de los Anteojos de la Revelación. Sin embargo, no da el descuento de vis que las gafas suelen dar.<BR>El Yelmo puede tener esta actualización, junto con las máscaras.
 #
-tc.research_name.MASKGRINNINGDEVIL=Mascara, Mueca del Diablo
+tc.research_name.MASKGRINNINGDEVIL=Mascara, Sonrisa Diabólica
 tc.research_text.MASKGRINNINGDEVIL=Mejora para Yelmo Blindado de Thaumium
 tc.research_page.MASKGRINNINGDEVIL.1=Esta máscara está diseñada para ser añadida a un Yelmo de Fortaleza de Thaumium existente.<BR>Cuando se usa, esta máscara tiene un efecto amortiguador interesante en aquellos que sufren de eventos Warp. Aunque no reduce el número de eventos, sí reduce algo su gravedad.<BR>Parece que reír en la cara del peligro tiene sus recompensas.
 #
@@ -1450,7 +1450,7 @@ tc.research_name.MASKANGRYGHOST=Máscara, Fantasma Colérico
 tc.research_text.MASKANGRYGHOST=Mejora para Yelmo Blindado de Thaumium
 tc.research_page.MASKANGRYGHOST.1=Esta máscara está diseñada para ser añadida a un Yelmo de Fortaleza Thaumium existente.<BR>Cuando eres golpeado en el combate llevando esta máscara, la criatura que te golpea tiene una posibilidad de sufrir efecto Wither.<BR>Se lo merecen.
 #
-tc.research_name.MASKSIPPINGFIEND=Máscara, Diablo Festivo
+tc.research_name.MASKSIPPINGFIEND=Máscara, Diablo Bebedor
 tc.research_text.MASKSIPPINGFIEND=Mejora para Yelmo Blindado de Thaumium
 tc.research_page.MASKSIPPINGFIEND.1=Esta máscara está diseñada para ser añadida a un Yelmo de Fortaleza de Thaumium existente.<BR>Cuando se golpea a una criatura en combate, mientras se lleva esta máscara, existe la posibilidad de que robes una pequeña parte de su fuerza vital, para reforzar la tuya.<BR>El hecho de que esto se haga bebiendo la sangre de tu víctima no parece molestarte tanto como debería. A veces te preguntas si deberías estar más preocupado por esto.
 #
